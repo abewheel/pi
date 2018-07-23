@@ -1,5 +1,6 @@
 [user]
 	email = abe.wheeler3@gmail.com
+	name = Abe
 [core]
 	excludesfile = /home/pi/.gitignore_global
 [alias]
