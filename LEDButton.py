@@ -1,4 +1,4 @@
-l module imports
+# https://learn.sparkfun.com/tutorials/raspberry-gpio/hardware-setup
 import RPi.GPIO as GPIO
 import time
 
